@@ -1,0 +1,40 @@
+<!DOCYPE html>
+<html>
+<head>
+ <title>Amara ismails profile</title>
+  <meta name=''description''content=''this is the profile of Amara''>
+  <meta charset=''utf-8''>
+  <link rel=''stylesheet'' type=''text/css'' href=''style.css''>
+  </head>
+
+  <body>
+
+  <div class=''container''>
+  <div class=''card-white text-center''>
+  <img src=''images/profile.jpng''alt=''amara'' class=''img-circle''>
+  <h1>Hi, I'm Amara</h1>
+  <p>I'm majoring in international business.</p>
+  </div></a>
+
+  <div class=''card-white''>
+  <h2>description</h2>
+  <p>I'm born and raised in Sweden, But I approciate Paris alot.</p>
+  </div>
+
+  <div class=''card-white''>
+   <h2>my entertainment</h2>
+   <p>I love me a good ol' pshycological thriller movie furthermore I enjoy music far more then I'd addmit.</p>
+   </div>
+
+   <div class=''card-white''>
+   <h2>social media</h2>
+   <ul class=''list'inline''>
+   <il><a href=''https://www.instagram.com/_moonamory_/'' target=''_blank''>Github</a></li>
+   <li><a href=''www.linkedin.com/in/amara-ismail-639724395'' target=_blank''>Linkedin</a></li>
+   <ul>
+   </div>
+
+   <div class=''card-white text-center''>
+   <p>Hope to see you soon!</p>
+   </div>
+   </div>
